@@ -16,5 +16,7 @@ The Student Grade Calculator is an object-oriented C# console application that d
 
 ## Video Reflection
 
+https://github.com/user-attachments/assets/87b1acdf-6b4d-404e-8bb7-23965ee75b71
+
 
 
